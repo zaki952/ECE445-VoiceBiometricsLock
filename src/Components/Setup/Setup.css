@@ -1,0 +1,28 @@
+.titles {
+	text-align: center;
+	background-color: #729BA9;
+	margin-top: -25px;
+}
+
+.h1 {
+	font-size: 24px;
+}
+.mic {
+	bottom: 5;
+	background-color: #729BA9;
+
+}
+
+.message {
+	background-color: #729BA9;
+	min-height: 50%
+}
+
+.screen {
+		background-color: #729BA9;
+}
+
+.translated {
+		background-color: #729BA9;
+		height: 100%
+}

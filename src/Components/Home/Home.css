@@ -1,0 +1,17 @@
+.welcome{
+	text-align: center;
+	font:'Arial';
+	font-weight: bold;
+	font-size: 24px;
+	background-color: #729BA9;
+	margin-top: -32px;
+	height: 100vh;
+}
+
+.photo {
+	width: 500;
+	height: 40%;
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+
